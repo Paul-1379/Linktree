@@ -1,24 +1,20 @@
 window.onload = function(){
-    fetch('data.json')
-    .then(response => response.json())
-    .then(data => {
-        const container = document.getElementById('data-container');
+    const container = document.getElementById('data-container');
+    var itemDiv = document.createElement('div');
 
-        // Parcourir chaque élément du JSON
-        data.forEach(item => {
-            // Créer un élément div pour chaque item
-            const itemDiv = document.createElement('div');
-            itemDiv.classList.add('item');
-  
-            // Ajouter le contenu HTML avec les données de l'item
-            itemDiv.innerHTML = `
-                <h3><a href=${item.link}>${item.title}</a></h3>
-            `;
-  
-            // Ajouter l'élément à l'intérieur du conteneur
-            container.appendChild(itemDiv);
-        });
-    })
-    .catch(error => console.error('Erreur lors du chargement du JSON:', error));
+    // Ajouter le contenu HTML avec les données de l'item
+    itemDiv.innerHTML = `
+        <li><h3><a href="https://paul-1379.github.io/Linktree/Data.json">https://paul-1379.github.io/Linktree/Data.json</a></h3></li>
+    `;
 
+    fetch('./Data.json')
+        .then(res => res.json())
+        .then(data => {
+            console.log(data);
+            data.forEach(element => {
+                itemDiv.innerHTML = `<li>${element.title}</li>`;
+                console.log(`${element.title}`);
+                container.appendChild(itemDiv);
+            });
+        })
 }
