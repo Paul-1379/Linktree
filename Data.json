@@ -2,41 +2,49 @@
   {
     "title": "YouTube",
     "link": "https://www.youtube.com/@Paul1379-0",
-    "description": "My youtube channel"
+    "description": "My youtube channel",
+    "logo": "./Images/Logos/YouTube logo.png"
   },
   {
     "title": "Github",
     "link": "https://github.com/Paul-1379",
-    "description": "For code"
+    "description": "For code",
+    "logo": "./Images/Logos/GitHub logo.png"
   },
   {
     "title": "Itch",
     "link": "https://paul1379.itch.io/",
-    "description": "Games"
+    "description": "Games",
+    "logo": "./Images/Logos/Itch io logo.png"
   },
   {
     "title": "Scratch",
     "link": "https://scratch.mit.edu/users/Paul1379/",
-    "description": "Old games"
+    "description": "Old games",
+    "logo": "./Images/Logos/Scratch logo.png"
   },
   {
     "title": "French games discord server",
     "link": "https://discord.gg/Tu3dJ8dqSG",
-    "description": "For follow my games"
+    "description": "For follow my games",
+    "logo": "./Images/Logos/Discord logo.png"
   },
   {
     "title": "Steam",
     "link": "https://steamcommunity.com/profiles/76561199637295211/",
-    "description": "My futures games on"
+    "description": "My futures games on",
+    "logo": "./Images/Logos/Steam logo.png"
   },
   {
     "title": "Speedrun.com",
     "link": "https://www.speedrun.com/users/Paul1379",
-    "description": "My speedruns"
+    "description": "My speedruns",
+    "logo": "./Images/Logos/Speedrun logo.png"
   },
   {
     "title": "Spotify",
     "link": "https://open.spotify.com/user/31oijdr4r32vy2kzsc22wmmttx7e",
-    "description": "Music?"
+    "description": "Music?",
+    "logo": "./Images/Logos/Spotify logo.png"
   }
 ]
