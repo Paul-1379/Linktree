@@ -14,7 +14,7 @@
   {
     "title": "Itch",
     "link": "https://paul1379.itch.io/",
-    "description": "Games",
+    "description": "My games",
     "logo": "./Images/Logos/Itch io logo.png"
   },
   {
@@ -27,6 +27,12 @@
     "title": "French games discord server",
     "link": "https://discord.gg/Tu3dJ8dqSG",
     "description": "For follow my games",
+    "logo": "./Images/Logos/Discord logo.png"
+  },
+  {
+    "title": "My discord profile",
+    "link": "https://discordapp.com/users/888445670128779365",
+    "description": "For contact me",
     "logo": "./Images/Logos/Discord logo.png"
   },
   {
