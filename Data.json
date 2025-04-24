@@ -8,7 +8,7 @@
   {
     "title": "Github",
     "link": "https://github.com/Paul-1379",
-    "description": "For code",
+    "description": "My code",
     "logo": "./Images/Logos/GitHub logo.png"
   },
   {
@@ -26,13 +26,13 @@
   {
     "title": "French games discord server",
     "link": "https://discord.gg/Tu3dJ8dqSG",
-    "description": "For follow my games",
+    "description": "To follow my games",
     "logo": "./Images/Logos/Discord logo.png"
   },
   {
     "title": "My discord profile",
     "link": "https://discordapp.com/users/888445670128779365",
-    "description": "For contact me",
+    "description": "To contact me",
     "logo": "./Images/Logos/Discord logo.png"
   },
   {
@@ -48,9 +48,9 @@
     "logo": "./Images/Logos/Speedrun logo.png"
   },
   {
-    "title": "Spotify",
-    "link": "https://open.spotify.com/user/31oijdr4r32vy2kzsc22wmmttx7e",
-    "description": "Music?",
-    "logo": "./Images/Logos/Spotify logo.png"
+    "title": "Wattpad",
+    "link": "https://www.wattpad.com/user/Paul1379",
+    "description": "weird stories",
+    "logo": "./Images/Logos/Wattpad logo.png"
   }
 ]
